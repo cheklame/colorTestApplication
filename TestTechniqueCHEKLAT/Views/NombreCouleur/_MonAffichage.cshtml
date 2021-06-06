@@ -1,0 +1,42 @@
+﻿@model List<NombreCouleur>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+
+<h1>The result of the division</h1>
+
+<div class="container">
+    <form method="post" action="ReturnTo">
+        <div class="col-lg-12 border" style="padding:30px;margin-left:40px;">
+                @foreach (var item in Model)
+                {
+                    <input style="padding: 20px; background-color:@item.Couleur.CodeCouleur" value="@item.Numero" disabled="disabled">
+                }
+        </div>
+        <div>
+            @if (ViewBag.ListeCouleur != null)
+            {
+                foreach (var item in ViewBag.ListeCouleur)
+                {
+                    <div style="margin:10px">
+                        <input style="background-color:@item.CodeCouleur" disabled="disabled" />
+                        <label>@item.LibelleCouleur divaded by @item.NumeroDivisible</label>
+                    </div>
+                }
+            }
+            <div style="margin:10px">
+                <input style="background-color:#F5E51B" disabled="disabled" />
+                <label>My Yellow color divided by many</label>
+            </div>
+
+
+        </div>
+        <div>
+            <input type="submit" class="btn btn-success" style="padding:10px;margin:30px" value="Return to main page">
+        </div>
+    </form>
+</div>

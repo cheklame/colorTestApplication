@@ -1,0 +1,14 @@
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\bin\Debug\netcoreapp2.1\bundleconfig.json
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\bin\Debug\netcoreapp2.1\TestTechniqueCHEKLAT.deps.json
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\bin\Debug\netcoreapp2.1\TestTechniqueCHEKLAT.runtimeconfig.json
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\bin\Debug\netcoreapp2.1\TestTechniqueCHEKLAT.runtimeconfig.dev.json
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\bin\Debug\netcoreapp2.1\TestTechniqueCHEKLAT.dll
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\bin\Debug\netcoreapp2.1\TestTechniqueCHEKLAT.pdb
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\obj\Debug\netcoreapp2.1\TestTechniqueCHEKLAT.AssemblyInfoInputs.cache
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\obj\Debug\netcoreapp2.1\TestTechniqueCHEKLAT.AssemblyInfo.cs
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\obj\Debug\netcoreapp2.1\TestTechniqueCHEKLAT.csproj.CoreCompileInputs.cache
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\obj\Debug\netcoreapp2.1\TestTechniqueCHEKLAT.dll
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\obj\Debug\netcoreapp2.1\TestTechniqueCHEKLAT.pdb
+C:\Users\x666972\source\repos\TestTechniqueCHEKLAT\TestTechniqueCHEKLAT\obj\Debug\netcoreapp2.1\TestTechniqueCHEKLAT.genruntimeconfig.cache

@@ -1,0 +1,52 @@
+﻿@model TestTechniqueCHEKLAT.Models.Couleur
+@{
+    ViewData["Title"] = "Accueil";
+}
+
+
+<br />
+<h2 class="text-info" style="margin-top:80px">Shose a numbre and color different from yellow !</h2>
+<br />
+
+<div class="border container" style="padding:30px;border: solid 1px Black;">
+    <form method="post" asp-action="Ajouter">
+        <div class="form-group row">
+            <div class="col-lg-3">
+                <label asp-for="LibelleCouleur"></label>
+            </div>
+            <div class="col-lg-6">
+                <input asp-for="LibelleCouleur" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-lg-3">
+                <label asp-for="CodeCouleur"></label>
+            </div>
+            <div class="col-lg-6">
+                <input asp-for="CodeCouleur" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-lg-3">
+                <label asp-for="NumeroDivisible"></label>
+            </div>
+            <div class="col-lg-6">
+                <input asp-for="NumeroDivisible" class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-lg-3 col-lg-offset-3">
+                <input type="submit" value="Ajouter" class="btn btn-primary form-control" id="AddButton"/>
+            </div>
+            <div class="col-lg-3">
+                <input type="submit" value="Reset" class="btn btn-success form-control" asp-action="Reset" />
+            </div>
+        </div>
+    </form>
+</div>
+<br />
+
+
+<script type="text/javascript">
+
+</script>
